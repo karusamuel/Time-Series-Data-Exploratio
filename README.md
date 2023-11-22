@@ -315,7 +315,7 @@ pip install prophet --no-binary :all:
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from fbprophet import Prophet
+from prophet import Prophet
 
 # Generate or load your time series data
 # For example, creating a synthetic time series
